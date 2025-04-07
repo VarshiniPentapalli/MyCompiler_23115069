@@ -78,7 +78,7 @@ If you get "syntax error":
 
 
 
-The above are the two examples
+The above is the exanple
 ---
 ---
 ## 📜 License
