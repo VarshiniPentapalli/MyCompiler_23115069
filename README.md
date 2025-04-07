@@ -75,7 +75,6 @@ If you get "syntax error":
 ## 📸 Screenshots
 
 ![Screenshot 2025-04-06 195725](https://github.com/user-attachments/assets/9d0c286c-c26d-4f84-9c85-c5cda3a92d88)
-![Screenshot 2025-04-06 201531](https://github.com/user-attachments/assets/658e2492-4b77-48de-a7a7-30261628e1e3)
 
 
 
