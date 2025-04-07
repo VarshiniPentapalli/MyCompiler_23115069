@@ -72,7 +72,7 @@ If you get "syntax error":
 3. Use only single-letter variables
 4. Supported operators: `+`, `-`, `*`
 
-## 📸 Screenshots
+## 📸 Screenshot
 
 ![Screenshot 2025-04-06 195725](https://github.com/user-attachments/assets/9d0c286c-c26d-4f84-9c85-c5cda3a92d88)
 
